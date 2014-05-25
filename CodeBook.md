@@ -8,14 +8,21 @@ Variables
 ---------
 
 sub_test = subject test data
+
 sub_train = subject train data
+
 x_test = X test data
+
 y_test = Y test data
+
 x_train = X train data
+
 y_train = Y train data
 
 m_sub_y_x_test <- all test data
+
 m_sub_y_x_train <- all train data
+
 m_all <- all merged data
 
 m_all_2 <- data with mean and STD valued extracted
